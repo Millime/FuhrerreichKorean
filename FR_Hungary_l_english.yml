@@ -4,34 +4,34 @@
 ### BOOKMARK ###
 ################
 
-HUN_FUHRERREICH_DESC:0 "With the fall of the Austro-Hungarian Empire in 1919, the new Hungarian Republic found itself with enemies on all sides. After a joint Entente-led invasion, the Republic was partitioned and its territory handed out to its victorious neighbors. This led to a strong sense of nationalism and irredentism within Hungary and the rise of the ultranationalist Arrow Cross party. Hungary now looks outward to it's former lands in Transylvania and Slovakia with hungry eyes."
+HUN_FUHRERREICH_DESC:0 "1919년 오스트리아-헝가리 제국의 몰락과 동시에, 새로운 헝가리 공화국이 사방에 적을 둔 채로 건립되었습니다. 협상국 주도의 침공 이후 공화국은 분할되었고, 영토는 승리한 이웃들에게 주어졌습니다. 이 일은 헝가리 내부의 민족주의와 실지회복주의 의식을 대두시켰으며 극우 화살십자당이 성장하는 데에도 영향을 미쳤습니다. 이제 헝가리는 트란실바니아와 슬로바이카의 옛 영토로 눈길을 돌립니다."
 
 ################
 ### POLITICS ###
 ################
 
 HUN_vanguardist_party:0 "MST"
-HUN_vanguardist_party_long:0 "Magyar Szovjet Tanács"
+HUN_vanguardist_party_long:0 "헝가리 소비에트 의회"
 HUN_collectivist_party:0 "MSM"
-HUN_collectivist_party_long:0 "Magyarországi Szocialista Munkáspárt"
-HUN_libertarian_socialist_party:0 "Balközép"
-HUN_libertarian_socialist_party_long:0 "Balközép"
-HUN_social_democrat_party:0 "Szociáldemokrata párt"
-HUN_social_democrat_party_long:0 "Szociáldemokrata párt Magyarország számára"
+HUN_collectivist_party_long:0 "헝가리 사회노동당"
+HUN_libertarian_socialist_party:0 "발쾨제프"
+HUN_libertarian_socialist_party_long:0 "발쾨제프"
+HUN_social_democrat_party:0 "사회민주당"
+HUN_social_democrat_party_long:0 "헝가리 사회민주당"
 HUN_social_liberal_party:0 "LE"
-HUN_social_liberal_party_long:0 "Liberális Ellenzék"
+HUN_social_liberal_party_long:0 "자유 야당"
 HUN_market_liberal_party:0 "F48P"
-HUN_market_liberal_party_long:0 "Függetlenségi és 48-as Párt"
+HUN_market_liberal_party_long:0 "독립과 48년당"
 HUN_social_conservative_party:0 "KNP"
-HUN_social_conservative_party_long:0 "Keresztény Nemzeti Párt"
+HUN_social_conservative_party_long:0 "가톨릭 국민당"
 HUN_authoritarian_democrat_party:0 "FKgP"
-HUN_authoritarian_democrat_party_long:0 "Független Kisgazda-, Földmunkás- és Polgári Párt"
+HUN_authoritarian_democrat_party_long:0 "독립소작동 농업 노동자시민당"
 HUN_paternal_autocrat_party:0 "MNEP"
-HUN_paternal_autocrat_party_long:0 "Magyar Nemzeti Egység Párt"
-HUN_national_populist_party:0 "Arrow Cross"
-HUN_national_populist_party_long:0 "Nyilaskeresztes Párt"
+HUN_paternal_autocrat_party_long:0 "헝가리 국가단결당"
+HUN_national_populist_party:0 "화살십자당"
+HUN_national_populist_party_long:0 "화살십자당"
 HUN_valkist_party:0 "MVP"
-HUN_valkist_party_long:0 "Magyar Valkista Párt"
+HUN_valkist_party_long:0 "헝가리 발키즘당"
 
 ###############
 #### FOCUS ####
